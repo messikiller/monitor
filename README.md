@@ -1,1 +1,2 @@
 # monitor
+php_ssh2+jquery+highcharts编写一个可以实时监控linux主机内存使用率的动态图表
